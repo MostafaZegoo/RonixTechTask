@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RonixTech_Task</string>
+
+    <string name="welcome_text">Welcome to the New Edge</string>
+    <string name="registration_text">Be a member of the family</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone number</string>
+    <string name="address">Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login_button">Log In</string>
+    <string name="sign_up_button">Register</string>
+
+    <string name="newUser1">Not a Member yet?</string>
+    <string name="newUser2">Sign Up here.</string>
+
+    <string name="oldUser1">Already have account ?</string>
+    <string name="oldUser2">Login here .</string>
+
+    <string name="err_password">The password should contain at least 8 characters, including at least one lower case letter, one upper case letter, one number and one punctuation mark</string>
+    <string name="err_password_confirmation">Please re-enter the password</string>
+    <string name="err_name">Human name please</string>
+    <string name="err_email">Email address please</string>
+    <string name="err_tel">Telephone Number please</string>
+    <string name="err_address">Address please</string>
+
+</resources>
